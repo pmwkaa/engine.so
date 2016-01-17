@@ -6,7 +6,7 @@
 Tracking, Benchmarking and Sharing Information about an open source [embedded data storage engines](https://en.wikipedia.org/wiki/Embedded_database),
 internals, architectures, data storage and transaction processing.
 
-If you would like to share a material or make a correction, please use [GitHub](http://github.com/pmwkaa/engine_so) or contact me
+If you would like to share a material or make a correction, please use [GitHub](http://github.com/pmwkaa/engine.so) or contact me
 by [Email](mailto:pmwkaa@gmail.com).
 
 ##Storage Engines
