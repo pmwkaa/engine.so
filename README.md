@@ -1,5 +1,5 @@
 
-![engine.so](logo.svg)
+![engine.so](http://engine.so/logo.svg)
 
 #Embeddable data storage engines.
 
