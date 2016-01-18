@@ -15,6 +15,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 |---|---|---|---|
 | [Berkeley DB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) | C | B-Tree, Hash | Berkeley DB (BDB) is a software library that provides a high-performance embedded database for key/value data. |
 | [SQLite](https://sqlite.org/) | C | B-Tree, LSM | SQLite is a relational database management system contained in a C programming library. |
+| [UnQLite](http://unqlite.org/) | C | B-Tree, LSM | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
 | [LevelDB](https://github.com/google/leveldb) | C++ | LSM | LevelDB is an open source on-disk key-value store written by Google. |
 | [RocksDB](https://rocksdb.org) | C++ | LSM | RocksDB is an embeddable persistent key-value store for fast storage from Facebook. |
 | [Sophia](http://sphia.org) | C | Sophia | Modern embeddable transactional key-value storage. |
