@@ -17,6 +17,8 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [SQLite](https://sqlite.org/) | C | B-Tree, LSM | SQLite is a relational database management system contained in a C programming library. |
 | [UnQLite](http://unqlite.org/) | C | Hash | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
 | [LevelDB](https://github.com/google/leveldb) | C++ | LSM | LevelDB is an open source on-disk key-value store written by Google. |
+| [LevelDB Basho](https://github.com/basho/leveldb) | C++ | LSM | A fork of LevelDB modified to benefit the Riak environment. |
+| [HyperLevelDB](https://github.com/rescrv/HyperLevelDB) | C++ | LSM | A fork of LevelDB intended to meet the needs of HyperDex while remaining compatible with LevelDB. |
 | [RocksDB](https://rocksdb.org) | C++ | LSM | RocksDB is an embeddable persistent key-value store for fast storage from Facebook. |
 | [Sophia](http://sphia.org) | C | Sophia | Modern embeddable transactional key-value storage. |
 | [WiredTiger](http://wiredtiger.com) | C | B-Tree, LSM | WiredTiger is a high performance, scalable, production quality, NoSQL, Open Source extensible platform for data management. |
