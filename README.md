@@ -15,7 +15,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 |---|---|---|---|
 | [Berkeley DB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) | C | B-Tree, Hash | Berkeley DB (BDB) is a software library that provides a high-performance embedded database for key/value data. |
 | [SQLite](https://sqlite.org/) | C | B-Tree, LSM | SQLite is a relational database management system contained in a C programming library. |
-| [UnQLite](http://unqlite.org/) | C | B-Tree, LSM | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
+| [UnQLite](http://unqlite.org/) | C | Hash | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
 | [LevelDB](https://github.com/google/leveldb) | C++ | LSM | LevelDB is an open source on-disk key-value store written by Google. |
 | [RocksDB](https://rocksdb.org) | C++ | LSM | RocksDB is an embeddable persistent key-value store for fast storage from Facebook. |
 | [Sophia](http://sphia.org) | C | Sophia | Modern embeddable transactional key-value storage. |
@@ -26,6 +26,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [LMDB](http://symas.com/mdb) | C | B-Tree | Lightning Memory-Mapped Database (LMDB) is a software library that provides a high-performance embedded transactional database in the form of a key-value store. |
 | [MDBX](https://github.com/ReOpen/libmdbx) | C | B-Tree | Modified version of LMDB (Symas Lightning Memory-Mapped Database) |
 | [NessDB](https://github.com/bohutang/nessdb) | C | Buffered-Tree | A very fast transactional key-value, embedded database storage engine. |
+| [Vedis](http://vedis.symisc.net/) | C | Hash | Vedis is an embeddable datastore C library built with over 70 commands similar in concept to Redis but without the networking layer. |
 | [EJDB](http://ejdb.org) | C | B-Tree, Hash | Embedded JSON Database engine C library. |
 | [UpscaleDB](http://upscaledb.org) | C | B-Tree | A very fast lightweight embedded database engine with built-in analytic functions. |
 | [Eblob](http://reverbrain.com/eblob/) | C | | Eblob is an append-only low-level IO library, which saves data in blob files. |
