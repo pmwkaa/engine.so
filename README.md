@@ -20,7 +20,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [LevelDB by Basho](https://github.com/basho/leveldb) | C++ | LSM | A fork of LevelDB modified to benefit the Riak environment. |
 | [LevelDB by HyperDex](https://github.com/rescrv/HyperLevelDB) | C++ | LSM | A fork of LevelDB intended to meet the needs of HyperDex while remaining compatible with LevelDB. |
 | [RocksDB](http://rocksdb.org) | C++ | LSM | RocksDB is an embeddable persistent key-value store for fast storage from Facebook. (LevelDB by Facebook) |
-| [Sophia](http://sphia.org) | C | Sophia | Modern embeddable transactional key-value storage. |
+| [Sophia](http://sophia.systems) | C | Sophia | Hybrid RAM-Disk Embeddable Transactional Key-Value Storage. |
 | [WiredTiger](http://wiredtiger.com) | C | B-Tree, LSM | WiredTiger is a high performance, scalable, production quality, NoSQL, Open Source extensible platform for data management. |
 | [Percona/TokuFT](https://github.com/percona/perconaft) | C++ | Fractal Tree | PerconaFT is a high-performance, transactional key-value store. |
 | [ForestDB](https://github.com/couchbase/forestdb) | C++ | HB+-Trie | Forestdb - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie. |
