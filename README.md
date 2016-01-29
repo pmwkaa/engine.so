@@ -30,6 +30,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [NessDB](https://github.com/bohutang/nessdb) | C | Buffered-Tree | A very fast transactional key-value, embedded database storage engine. |
 | [Vedis](http://vedis.symisc.net/) | C | Hash | Vedis is an embeddable datastore C library built with over 70 commands similar in concept to Redis but without the networking layer. |
 | [Rlite](https://github.com/seppo0010/rlite) | C | Hash | Self-contained, serverless, zero-configuration, transactional Redis-compatible database engine. |
+| [SkipDB](https://github.com/stevedekorte/skipdb) | C | Skip List | Small, portable, ACID, C implemented BDB style database based on skiplists instead of b-trees. |
 | [EJDB](http://ejdb.org) | C | B-Tree, Hash | Embedded JSON Database engine C library. |
 | [UpscaleDB](http://upscaledb.org) | C | B-Tree | A very fast lightweight embedded database engine with built-in analytic functions. |
 | [Eblob](http://reverbrain.com/eblob/) | C | | Eblob is an append-only low-level IO library, which saves data in blob files. |
