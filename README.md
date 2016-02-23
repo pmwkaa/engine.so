@@ -14,6 +14,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | name | language | storage | description |
 |---|---|---|---|
 | [Berkeley DB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) | C | B-Tree, Hash | Berkeley DB (BDB) is a software library that provides a high-performance embedded database for key/value data. |
+| [Tokyo/Kyoto Cabinet](http://fallabs.com/kyotocabinet/) | C++ | B-Tree, Hash | Tokyo Cabinet and Kyoto Cabinet are two libraries of routines for managing key-value databases. |
 | [SQLite](https://sqlite.org/) | C | B-Tree, LSM | SQLite is a relational database management system contained in a C programming library. |
 | [UnQLite](http://unqlite.org/) | C | Hash | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
 | [LevelDB](https://github.com/google/leveldb) | C++ | LSM | LevelDB is an open source on-disk key-value store written by Google. |
@@ -24,7 +25,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [WiredTiger](http://wiredtiger.com) | C | B-Tree, LSM | WiredTiger is a high performance, scalable, production quality, NoSQL, Open Source extensible platform for data management. |
 | [Percona/TokuFT](https://github.com/percona/perconaft) | C++ | Fractal Tree | PerconaFT is a high-performance, transactional key-value store. |
 | [ForestDB](https://github.com/couchbase/forestdb) | C++ | HB+-Trie | Forestdb - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie. |
-| [Tokyo/Kyoto Cabinet](http://fallabs.com/kyotocabinet/) | C++ | B-Tree, Hash | Tokyo Cabinet and Kyoto Cabinet are two libraries of routines for managing key-value databases. |
+| [Sparkey](https://github.com/spotify/sparkey) | C | Hash | Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts. |
 | [LMDB](http://symas.com/mdb) | C | B-Tree | Lightning Memory-Mapped Database (LMDB) is a software library that provides a high-performance embedded transactional database in the form of a key-value store. |
 | [MDBX](https://github.com/ReOpen/libmdbx) | C | B-Tree | Modified version of LMDB (Symas Lightning Memory-Mapped Database) |
 | [NessDB](https://github.com/bohutang/nessdb) | C | Buffered-Tree | A very fast transactional key-value, embedded database storage engine. |
