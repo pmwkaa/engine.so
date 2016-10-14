@@ -24,6 +24,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [Percona/TokuFT](https://github.com/percona/perconaft) | C++ | Fractal Tree | PerconaFT is a high-performance, transactional key-value store. |
 | [ForestDB](https://github.com/couchbase/forestdb) | C++ | HB+-Trie | Forestdb - A Fast Key-Value Storage Engine Based on Hierarchical B+-Tree Trie. |
 | [Sparkey](https://github.com/spotify/sparkey) | C | Hash | Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts. |
+| [MDBM](https://github.com/timrc-git/mdbm) | C | Hash | MDBM is a fast memory-mapped DBM clone by Yahoo. |
 | [LMDB](http://symas.com/mdb) | C | B-Tree | Lightning Memory-Mapped Database (LMDB) is a software library that provides a high-performance embedded transactional database in the form of a key-value store. |
 | [MDBX](https://github.com/ReOpen/libmdbx) | C | B-Tree | Modified version of LMDB (Symas Lightning Memory-Mapped Database) |
 | [NessDB](https://github.com/bohutang/nessdb) | C | Buffered-Tree | A very fast transactional key-value, embedded database storage engine. |
