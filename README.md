@@ -35,6 +35,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [UpscaleDB](http://upscaledb.org) | C | B-Tree | A very fast lightweight embedded database engine with built-in analytic functions. |
 | [Eblob](http://reverbrain.com/eblob/) | C | | Eblob is an append-only low-level IO library, which saves data in blob files. |
 | [WhiteDB](http://whitedb.org) | C | Hash | WhiteDB is a lightweight NoSQL database library written in C, operating fully in main memory. |
+| [Beringei](https://github.com/facebookincubator/beringei) | C++ | TimeSeries | Beringei is a high performance, in-memory storage engine for time series data. |
 
 ##Benchmarking
 
