@@ -34,6 +34,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 | [Eblob](http://reverbrain.com/eblob/) | C | LGPLv3 | | Eblob is an append-only low-level IO library, which saves data in blob files. |
 | [WhiteDB](http://whitedb.org) | C | GPLv3 or Proprietary or Royalty Free w/ Conditions | Hash | WhiteDB is a lightweight NoSQL database library written in C, operating fully in main memory. |
 | [Beringei](https://github.com/facebookincubator/beringei) | C++ | 3-Clause BSD (New/Revised) | TimeSeries | Beringei is a high performance, in-memory storage engine for time series data. |
+| [IOWOW](http://iowow.io) | C | MIT | Skip List | The C11 persistent key/value storage engine library based on skip list data structure. |
 
 **Benchmarking**
 
