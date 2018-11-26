@@ -11,7 +11,7 @@ by [Email](mailto:pmwkaa@gmail.com).
 |---|---|---|---|---|
 | [Berkeley DB](http://www.oracle.com/technetwork/database/database-technologies/berkeleydb/overview/index.html) | C | AGPLv3 or Proprietary | B-Tree, Hash | Berkeley DB (BDB) is a software library that provides a high-performance embedded database for key/value data. |
 | [Tokyo/Kyoto Cabinet](http://fallabs.com/kyotocabinet/) | C++ | GPLv2.1 / GPLv3 w/ compatibility exceptions | B-Tree, Hash | Tokyo Cabinet and Kyoto Cabinet are two libraries of routines for managing key-value databases. |
-| [SQLite](https://sqlite.org/) | C | Public Domain | B-Tree, LSM | SQLite is a relational database management system contained in a C programming library. |
+| [SQLite3](https://sqlite.org/) | C | Public Domain | B-Tree | SQLite is a relational database management system contained in a C programming library. |
 | [UnQLite](http://unqlite.org/) | C | 2-Clause BSD (Simplified) | Hash | UnQLite is a in-process software library which implements a self-contained, serverless, zero-configuration, transactional NoSQL database engine. |
 | [LevelDB](https://github.com/google/leveldb) | C++ | 3-Clause BSD (New/Revised) | LSM | LevelDB is an open source on-disk key-value store written by Google. |
 | [LevelDB by Basho](https://github.com/basho/leveldb) | C++ | 3-Clause BSD (New/Revised) | LSM | A fork of LevelDB modified to benefit the Riak environment. |
